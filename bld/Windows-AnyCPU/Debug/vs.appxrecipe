@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ICU-900</Machine>
+    <WindowsUser>ayoze</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7962a090-1753-11e6-8afb-0f56907741e2</PackageIdentityName>
+    <IntermediateOutputPath>C:\APPs\SnappyMap2\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6DC60839C6C831BDF0325426AB42D339CE4C59B2862C037BB379343A905BBF10</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.ionicframework.snappymappy728356_0.0.1.0_neutral__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.ionicframework.snappymappy728356_h35559jr9hy9m!com.ionicframework.snappymappy728356</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.ionicframework.snappymappy728356</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>0.0.1.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\APPs\SnappyMap2\platforms\windows\build\windows\debug\anycpu\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:52:32.585</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2016-05-11T08:36:37.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2016-05-11T08:36:37.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T08:36:37.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\img\flag.png">
+      <PackagePath>www\img\flag.png</PackagePath>
+      <Modified>2016-05-11T08:52:30.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\img\flag1.png">
+      <PackagePath>www\img\flag1.png</PackagePath>
+      <Modified>2016-05-11T08:52:30.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\img\flecha.png">
+      <PackagePath>www\img\flecha.png</PackagePath>
+      <Modified>2016-05-11T08:52:30.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\img\icon.png">
+      <PackagePath>www\img\icon.png</PackagePath>
+      <Modified>2016-05-11T08:52:30.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\img\orange.png">
+      <PackagePath>www\img\orange.png</PackagePath>
+      <Modified>2016-05-11T08:52:30.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\css\app.ios.css">
+      <PackagePath>www\build\css\app.ios.css</PackagePath>
+      <Modified>2016-05-11T08:52:31.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\css\app.md.css">
+      <PackagePath>www\build\css\app.md.css</PackagePath>
+      <Modified>2016-05-11T08:52:31.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\css\app.wp.css">
+      <PackagePath>www\build\css\app.wp.css</PackagePath>
+      <Modified>2016-05-11T08:52:31.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\js\ol.css">
+      <PackagePath>www\js\ol.css</PackagePath>
+      <Modified>2016-05-11T08:52:31.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\ionicons.ttf">
+      <PackagePath>www\build\fonts\ionicons.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\noto-sans-bold.ttf">
+      <PackagePath>www\build\fonts\noto-sans-bold.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\noto-sans-regular.ttf">
+      <PackagePath>www\build\fonts\noto-sans-regular.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-bold.ttf">
+      <PackagePath>www\build\fonts\roboto-bold.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-light.ttf">
+      <PackagePath>www\build\fonts\roboto-light.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-medium.ttf">
+      <PackagePath>www\build\fonts\roboto-medium.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-regular.ttf">
+      <PackagePath>www\build\fonts\roboto-regular.ttf</PackagePath>
+      <Modified>2016-05-11T08:52:30.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\ionicons.woff">
+      <PackagePath>www\build\fonts\ionicons.woff</PackagePath>
+      <Modified>2016-05-11T08:52:30.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-bold.woff">
+      <PackagePath>www\build\fonts\roboto-bold.woff</PackagePath>
+      <Modified>2016-05-11T08:52:30.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-light.woff">
+      <PackagePath>www\build\fonts\roboto-light.woff</PackagePath>
+      <Modified>2016-05-11T08:52:30.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-medium.woff">
+      <PackagePath>www\build\fonts\roboto-medium.woff</PackagePath>
+      <Modified>2016-05-11T08:52:30.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\roboto-regular.woff">
+      <PackagePath>www\build\fonts\roboto-regular.woff</PackagePath>
+      <Modified>2016-05-11T08:52:30.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\fonts\ionicons.woff2">
+      <PackagePath>www\build\fonts\ionicons.woff2</PackagePath>
+      <Modified>2016-05-11T08:52:30.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\js\angular2-polyfills.js">
+      <PackagePath>www\build\js\angular2-polyfills.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\js\app.bundle.js">
+      <PackagePath>www\build\js\app.bundle.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\js\es6-shim.min.js">
+      <PackagePath>www\build\js\es6-shim.min.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-05-11T08:52:30.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\js\ol-debug.js">
+      <PackagePath>www\js\ol-debug.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\js\ol.js">
+      <PackagePath>www\js\ol.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-console\www\console-via-logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\console-via-logger.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-console\www\logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\logger.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-device\www\device.js">
+      <PackagePath>www\plugins\cordova-plugin-device\www\device.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-geolocation\www\Coordinates.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\Coordinates.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-geolocation\www\geolocation.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\geolocation.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-geolocation\www\Position.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\Position.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-geolocation\www\PositionError.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\PositionError.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js</PackagePath>
+      <Modified>2016-05-11T08:52:31.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</PackagePath>
+      <Modified>2016-05-11T08:52:32.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\cordova-plugin-statusbar\www\statusbar.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\www\statusbar.js</PackagePath>
+      <Modified>2016-05-11T08:52:32.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js">
+      <PackagePath>www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js</PackagePath>
+      <Modified>2016-05-11T08:52:32.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-05-11T08:52:30.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\js\app.bundle.js.map">
+      <PackagePath>www\build\js\app.bundle.js.map</PackagePath>
+      <Modified>2016-05-11T08:52:30.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\pages\map\map.html">
+      <PackagePath>www\build\pages\map\map.html</PackagePath>
+      <Modified>2016-05-11T08:52:31.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\pages\page1\page1.html">
+      <PackagePath>www\build\pages\page1\page1.html</PackagePath>
+      <Modified>2016-05-11T08:52:31.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\pages\page2\page2.html">
+      <PackagePath>www\build\pages\page2\page2.html</PackagePath>
+      <Modified>2016-05-11T08:52:31.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\pages\page3\page3.html">
+      <PackagePath>www\build\pages\page3\page3.html</PackagePath>
+      <Modified>2016-05-11T08:52:31.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\build\pages\tabs\tabs.html">
+      <PackagePath>www\build\pages\tabs\tabs.html</PackagePath>
+      <Modified>2016-05-11T08:52:31.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-05-11T08:52:31.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-05-11T08:52:29.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\APPs\SnappyMap2\platforms\windows\build\windows\debug\anycpu\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-11T08:52:32.432</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
